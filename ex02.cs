@@ -21,4 +21,32 @@ class ex02
         numList[15] = 1;
 
     }
+
+    private static void MergeSortNumbers(int[] B, int iStart, int iEnd, int[] A)
+    {
+        if ((iEnd - iStart) < 2) return;
+
+        int iMiddle = (iStart + iEnd) / 2;
+        MergeSortNumbers(A, iStart, iMiddle, B); // Do Not decrement iMiddle
+        MergeSortNumbers(A, iMiddle, iEnd, B);
+        Merge(B, iStart, iMiddle, iEnd, A);
+    }
+
+    private static void Merge(int[] A, int iStart, int iMiddle, int iEnd, int[] B)
+    {
+        int i = iStart;
+        int j = iMiddle;
+
+        for (int k = iStart; k < iEnd; k++)
+        {
+            if (i < iMiddle && (j >= iEnd || A[i] <= A[j]))
+            {
+                B[k] = A[i++];
+            }
+            else
+            {
+                B[k] = A[j++];
+            }
+        }
+    }
 }
