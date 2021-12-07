@@ -13,3 +13,19 @@ C:\Users\Mathe\Desktop\Nova pasta\AED3T2\obj\Debug\net6.0\AED3T2.dll
 C:\Users\Mathe\Desktop\Nova pasta\AED3T2\obj\Debug\net6.0\ref\AED3T2.dll
 C:\Users\Mathe\Desktop\Nova pasta\AED3T2\obj\Debug\net6.0\AED3T2.pdb
 C:\Users\Mathe\Desktop\Nova pasta\AED3T2\obj\Debug\net6.0\AED3T2.genruntimeconfig.cache
+C:\Users\danie\Desktop\AED3\AED3T2\bin\Debug\net6.0\AED3T2.exe
+C:\Users\danie\Desktop\AED3\AED3T2\bin\Debug\net6.0\AED3T2.deps.json
+C:\Users\danie\Desktop\AED3\AED3T2\bin\Debug\net6.0\AED3T2.runtimeconfig.json
+C:\Users\danie\Desktop\AED3\AED3T2\bin\Debug\net6.0\AED3T2.dll
+C:\Users\danie\Desktop\AED3\AED3T2\bin\Debug\net6.0\ref\AED3T2.dll
+C:\Users\danie\Desktop\AED3\AED3T2\bin\Debug\net6.0\AED3T2.pdb
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.GlobalUsings.g.cs
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.AssemblyInfo.cs
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.dll
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\ref\AED3T2.dll
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.pdb
+C:\Users\danie\Desktop\AED3\AED3T2\obj\Debug\net6.0\AED3T2.genruntimeconfig.cache
