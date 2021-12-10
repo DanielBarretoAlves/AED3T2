@@ -4,6 +4,12 @@ class ex09
     {
         float[] num = { 78, 55, 45, 98, 13, 40, 1, 100, 90, 12, 22, 45, 79, 35, 300, 1000, 3012};
         bucketSort(num, num.Length);
+
+        for (int i = 0; i < num.Length; i++)
+        {
+            Console.WriteLine(num[i]);
+        }
+
     }
 
         static void bucketSort(float []arr, int n)
