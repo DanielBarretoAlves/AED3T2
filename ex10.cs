@@ -8,6 +8,7 @@ class ex10
         int[] num = { 78, 55, 45, 98, 13, 40, 1, 100, 90, 12, 22, 45, 79, 35, 300, 1000, 3012};
         int n = num.Length;
         oddEvenSort(num, n);
+        Console.WriteLine("C - N²");
         
       
     }    
